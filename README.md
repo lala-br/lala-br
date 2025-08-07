@@ -1,4 +1,5 @@
 **Information Systems Student | Cybersecurity & Data Enthusiast**
+
 Hi! I’m an Information Systems student with a growing passion for cybersecurity, data analysis, and building practical tech solutions. I enjoy exploring how data and security intersect to solve real-world problems.
 
 <!---
