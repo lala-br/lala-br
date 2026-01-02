@@ -1,6 +1,10 @@
 **Information Systems Student | Tech Enthusiast**
 
-Hi! I’m an Information Systems student passionate about exploring new technologies and learning continuously. I enjoy using tech and data to solve real-world problems, whether it’s in cybersecurity, data analysis, or building practical solutions that make a difference.
+# Hi, I'm Lala 👋
+
+I'm a 3rd-year Information Systems student passionate about **data and systems**. I enjoy exploring how data flows, analyzing datasets, and building projects that support **data-driven decision-making**. 
+
+This GitHub contains my academic and learning projects as I grow my skills in **data and systems**.
 
 <!---
 lala-br/lala-br is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
