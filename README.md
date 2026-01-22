@@ -1,4 +1,4 @@
-**Information Systems Student | Tech Enthusiast**
+**Information Systems Student | Data Enthusiast**
 
 # Hi, I'm Lala 👋
 
