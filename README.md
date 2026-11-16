@@ -1,12 +1,9 @@
-**Information Systems Student | Data Enthusiast**
-
 # Hi, I'm Lala 👋
 
-I'm a 3rd-year Information Systems student passionate about **data and systems**. I enjoy exploring how data flows, analyzing datasets, and building projects that support **data-driven decision-making**. 
+**Information Systems Graduate | Interested in Technology, Data & Creativity**
 
-This GitHub contains my academic and learning projects as I grow my skills in **data and systems**.
+I'm an Information Systems graduate with an interest in technology, data, and problem-solving.
 
-<!---
-lala-br/lala-br is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy exploring different technologies, learning new things, and occasionally turning ideas into small projects.
+
+This GitHub is a collection of my academic and personal projects, experiments, and things I've worked on along the way.
